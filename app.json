@@ -1,0 +1,40 @@
+{
+    "name": "Belink",
+    "description": "Make short link by using Belink API key",
+    "keywords": [
+        "telegram",
+        "PdiskShortener"
+    ],
+    "website": "https://github.com/kingvibekid/belink/",
+    "repository": "https://github.com/kingvibekid/belink/",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your bot token",
+            "value": ""
+        },
+        "API_ID": {
+            "description": "Get this value from https://t.me/ScrapperRoBot",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Get this value from https://t.me/ScrapperRoBot",
+            "value": ""
+        },
+        "API_KEY": {
+            "description": "Get API key from belink.co.za/member/tools/api",
+            "required": false
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
