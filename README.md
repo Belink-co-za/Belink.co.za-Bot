@@ -4,7 +4,7 @@ Make short link by using [Belink Bot](http://belink.co.za/) API key
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fkingvibekid%2FBelink.co.za-Bot&template=https%3A%2F%2Fgithub.com%2Fkingvibekid%2FBelink.co.za-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FBelink-co-za%2FBelink.co.za-Bot&template=https%3A%2F%2Fgithub.com%2FBelink-co-za%2FBelink.co.za-Bot)
 
 ##### Required Variables
 
