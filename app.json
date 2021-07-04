@@ -3,7 +3,7 @@
     "description": "Make short link by using Belink API key",
     "keywords": [
         "telegram",
-        "PdiskShortener"
+        "Belink.co.za-Bot"
     ],
     "website": "https://github.com/kingvibekid/belink/",
     "repository": "https://github.com/kingvibekid/belink/",
@@ -22,7 +22,7 @@
         },
         "API_KEY": {
             "description": "Get API key from belink.co.za/member/tools/api",
-            "required": false
+            "required": true
         }
     },
     "addons": [],
