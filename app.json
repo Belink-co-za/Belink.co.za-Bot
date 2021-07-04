@@ -1,12 +1,12 @@
 {
-    "name": "Belink",
+    "name": "Belink Bot",
     "description": "Make short link by using Belink API key",
     "keywords": [
         "telegram",
         "Belink.co.za-Bot"
     ],
-    "website": "https://github.com/kingvibekid/belink/",
-    "repository": "https://github.com/kingvibekid/belink/",
+    "website": "https://github.com/Belink-co-za/Belink.co.za-Bot/",
+    "repository": "https://github.com/Belink-co-za/Belink.co.za-Bot/",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
