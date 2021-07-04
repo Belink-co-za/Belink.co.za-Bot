@@ -4,7 +4,7 @@ Make short link by using [Belink](http://belink.co.za/) API key
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fkevinn264%2Fpdiskshortner&template=https%3A%2F%2Fgithub.com%2Fkevinn264%2Fpdiskshortner)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fkingvibekid%2Fbelink&template=https%3A%2F%2Fgithub.com%2Fkingvibekid%2Fbelink)
 
 ##### Required Variables
 
@@ -12,4 +12,4 @@ Make short link by using [Belink](http://belink.co.za/) API key
 
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_KEY`: Create [PdiskShortener](http://belink.co.za/) account then get this value from [Belink API](http://belink.co.za/member/tools/api)
+* `API_KEY`: Create [Belink](http://belink.co.za/) account then get this value from [Belink API](http://belink.co.za/member/tools/api)
